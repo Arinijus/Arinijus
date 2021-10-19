@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arinijus
+- 👀 I’m interested in computers, gaming.
+- 🌱 I’m currently learning about life
+- 💞️ I’m looking to collaborate on getting some bitches
+- 📫 How to reach me discord: Arinijus#4359
