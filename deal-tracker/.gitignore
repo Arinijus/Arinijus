@@ -1,0 +1,4 @@
+config.toml
+*.db
+.fb-profile/
+__pycache__/
